@@ -18,5 +18,5 @@
 
 @test "It should install Python 3.2.3" {
   run python --version
-  [[ $output =~ "3.2.3" ]]
+ [[ $output =~ "3.2.3" ]]
 }
